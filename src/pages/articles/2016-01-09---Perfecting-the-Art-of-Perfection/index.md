@@ -1,20 +1,22 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: Hello BLOGGING World!
+date: "13-December-2019"
 layout: post
 draft: false
 path: "/posts/perfecting-the-art-of-perfection/"
-category: "Design Inspiration"
+category: "Self Help"
 tags:
-  - "Handwriting"
-  - "Learning to write"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - "Self Help"
+description: "Company determines qualities and dictate how far you'll go."
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Thoughts for the day: 13-December-2019 
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](./1.jpg)
+Company determines qualities and dictate how far you'll go:
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+To those who lift up from animalistic human beahaviour towards higher consciousness. Using their humane-ness and living on this immense possibility called living life as a human. This is my ode, my gurudakshina, my all. Because you have shown me the path forward. 
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+From that day in november 2014, wherein a breakthrough was planned for me, to this day in 2019. You've shown me how gifted I am to be born as a human. How gifted I am to be born in possibilites wherein things have looked upwards in life and how great the future remains. I am so lucky on being chosen for this path, for an awakening, such early in life. No words can express it. 
+
+To the teachers and the medium and to this path. I am humbled by your generosity. I will be walking this path with utmost joy and passion. Keep taking me with you.
+
